@@ -13,7 +13,6 @@ const ButtonBar = () => (
     <ButtonSgPref />
     <ButtonFullscreen />
     <ButtonHelp />
-    <ButtonGithub />
   </div>
 )
 
